@@ -1,2 +1,2 @@
 [tomcat-nodes]
-192.168.10.10 # Add Server IP address, one line per server
+44.192.58.166 ansible_user=ubuntu
